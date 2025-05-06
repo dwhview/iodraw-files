@@ -219,7 +219,7 @@
           <mxGeometry x="97" y="881" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2AwN3XhovqSg3E8ISbUY-5" value="Note" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="252" y="696" width="100" height="100" as="geometry" />
+          <mxGeometry x="252" y="696" width="162" height="257" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
