@@ -387,9 +387,6 @@
         <mxCell id="tQbX8dSo25_jPZD9jHzM-9" value="输出判断结果与报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-10" target="tQbX8dSo25_jPZD9jHzM-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-10" value="更新缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="790" width="120" height="60" as="geometry" />
         </mxCell>
