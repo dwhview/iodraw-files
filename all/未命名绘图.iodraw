@@ -302,13 +302,13 @@
           <mxGeometry x="202" y="530" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-8" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="559" y="506" width="85" height="125" as="geometry" />
+          <mxGeometry x="447.5" y="517" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-9" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="553" y="512" width="85" height="125" as="geometry" />
+          <mxGeometry x="441.5" y="523" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-10" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="517" width="85" height="125" as="geometry" />
+          <mxGeometry x="435.5" y="528" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FKo1wn964XpOd0D-pp1g-6" target="c6BKYlkD1_nYNv5OPBQn-7">
           <mxGeometry relative="1" as="geometry" />
