@@ -125,8 +125,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vLYPcYJMrYs5jJGlEt6w-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.88;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vLYPcYJMrYs5jJGlEt6w-1" target="vLYPcYJMrYs5jJGlEt6w-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vLYPcYJMrYs5jJGlEt6w-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;从SPDX提取的&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;文件&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="303" y="230" width="117" height="82" as="geometry" />
+          <mxGeometry x="306.13" y="230" width="117" height="82" as="geometry" />
         </mxCell>
         <mxCell id="vLYPcYJMrYs5jJGlEt6w-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202.25" y="351" width="324.75" height="130" as="geometry" />
