@@ -369,7 +369,7 @@
         <mxCell id="tQbX8dSo25_jPZD9jHzM-5" value="设置大模型prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-6" value="大模型判断兼容性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
