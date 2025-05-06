@@ -357,19 +357,19 @@
         <mxCell id="tQbX8dSo25_jPZD9jHzM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-1" target="tQbX8dSo25_jPZD9jHzM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-1" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-2" target="tQbX8dSo25_jPZD9jHzM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-2" value="输入许可证权力和义务清单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输入许可证权力和义务清单&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-3" target="tQbX8dSo25_jPZD9jHzM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-3" value="计算哈希值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;计算哈希值&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-4" target="tQbX8dSo25_jPZD9jHzM-5">
