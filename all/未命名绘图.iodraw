@@ -192,21 +192,13 @@
         <mxCell id="3S8W7gqgCY-0BMeYJqHX-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;冲&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;突&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;处&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;理&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3S8W7gqgCY-0BMeYJqHX-5">
           <mxGeometry x="-20" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2AwN3XhovqSg3E8ISbUY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="3S8W7gqgCY-0BMeYJqHX-5" source="3S8W7gqgCY-0BMeYJqHX-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="223.33331298828125" y="299.3333740234375" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3S8W7gqgCY-0BMeYJqHX-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成可插入文件relationships.json&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3S8W7gqgCY-0BMeYJqHX-5">
-          <mxGeometry x="200" y="140" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="2AwN3XhovqSg3E8ISbUY-1" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="612" width="170" height="260" as="geometry" />
         </mxCell>
         <mxCell id="3S8W7gqgCY-0BMeYJqHX-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="277" y="632" width="125" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3S8W7gqgCY-0BMeYJqHX-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成可插入文件entities.json&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3S8W7gqgCY-0BMeYJqHX-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;可插入文件entities.json&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="302" y="648" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3S8W7gqgCY-0BMeYJqHX-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -217,6 +209,9 @@
         </mxCell>
         <mxCell id="3S8W7gqgCY-0BMeYJqHX-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="276" y="788" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3S8W7gqgCY-0BMeYJqHX-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成可插入文件relationships.json&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="802" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
