@@ -244,6 +244,9 @@
             <mxPoint x="-15" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2AwN3XhovqSg3E8ISbUY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2AwN3XhovqSg3E8ISbUY-12" target="2AwN3XhovqSg3E8ISbUY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2AwN3XhovqSg3E8ISbUY-12" value="用LightRAG插入JSON数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="785" width="90" height="90" as="geometry" />
         </mxCell>
@@ -253,7 +256,7 @@
         <mxCell id="2AwN3XhovqSg3E8ISbUY-15" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="761" width="90" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="2AwN3XhovqSg3E8ISbUY-16" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2AwN3XhovqSg3E8ISbUY-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;图谱&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;文件&lt;/font&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="770" width="90" height="120" as="geometry" />
         </mxCell>
       </root>
