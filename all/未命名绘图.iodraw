@@ -135,7 +135,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vLYPcYJMrYs5jJGlEt6w-1" value="从SPDX提取的&lt;div&gt;文件&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="vLYPcYJMrYs5jJGlEt6w-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;从SPDX提取的&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;文件&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="302.63" y="190" width="117" height="78" as="geometry" />
         </mxCell>
         <mxCell id="vLYPcYJMrYs5jJGlEt6w-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vLYPcYJMrYs5jJGlEt6w-3">
@@ -152,7 +152,7 @@
         <mxCell id="vLYPcYJMrYs5jJGlEt6w-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="372.5" width="120" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="vLYPcYJMrYs5jJGlEt6w-8" value="生成entities.txt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vLYPcYJMrYs5jJGlEt6w-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成entities.txt&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vLYPcYJMrYs5jJGlEt6w-9" value="生成relationships.txt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
