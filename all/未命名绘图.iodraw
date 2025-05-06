@@ -91,7 +91,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0cCgAg7iukunxlg8svzI-139" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="300" y="585" width="100" height="60" as="geometry" />
+          <mxGeometry x="300" y="585" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0cCgAg7iukunxlg8svzI-140" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="88" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
