@@ -178,7 +178,7 @@
             <mxPoint x="400" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r2bt8YugkUD6_9Vkz_nH-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;规格化实体/&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;font style=&quot;&quot;&gt;关系&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="r2bt8YugkUD6_9Vkz_nH-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;规格化&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;实体/&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;关系&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;文件&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="345" y="217" width="110" height="68" as="geometry" />
         </mxCell>
         <mxCell id="3S8W7gqgCY-0BMeYJqHX-5" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
