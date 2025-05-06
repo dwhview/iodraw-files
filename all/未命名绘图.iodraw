@@ -382,19 +382,19 @@
         <mxCell id="tQbX8dSo25_jPZD9jHzM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-4" target="tQbX8dSo25_jPZD9jHzM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-4" value="哈希值是否命中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;哈希值是否命中&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="340" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-5" target="tQbX8dSo25_jPZD9jHzM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-5" value="设置大模型prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设置大模型prompt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-6" target="tQbX8dSo25_jPZD9jHzM-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-6" value="大模型判断兼容性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;大模型判断兼容性&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="tQbX8dSo25_jPZD9jHzM-7" target="tQbX8dSo25_jPZD9jHzM-10">
