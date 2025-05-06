@@ -286,6 +286,9 @@
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-6" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="208" y="525" width="85" height="125" as="geometry" />
         </mxCell>
+        <mxCell id="c6BKYlkD1_nYNv5OPBQn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKo1wn964XpOd0D-pp1g-3" target="FKo1wn964XpOd0D-pp1g-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FKo1wn964XpOd0D-pp1g-3" value="输入预处理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -313,7 +316,7 @@
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-9" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="523" width="85" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="c6BKYlkD1_nYNv5OPBQn-10" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c6BKYlkD1_nYNv5OPBQn-10" value="obligations_&lt;div&gt;summary.json&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435.5" y="530" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FKo1wn964XpOd0D-pp1g-6">
@@ -337,6 +340,11 @@
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=32.5;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c6BKYlkD1_nYNv5OPBQn-17" target="c6BKYlkD1_nYNv5OPBQn-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c6BKYlkD1_nYNv5OPBQn-26" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c6BKYlkD1_nYNv5OPBQn-22">
+          <mxGeometry x="0.0556" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
