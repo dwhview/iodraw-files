@@ -375,7 +375,7 @@
         <mxCell id="tQbX8dSo25_jPZD9jHzM-7" value="解析判断结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQbX8dSo25_jPZD9jHzM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQbX8dSo25_jPZD9jHzM-8" value="输出缓存中的判断结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-9" value="输出判断结果与报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
