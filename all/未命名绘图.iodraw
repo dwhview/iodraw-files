@@ -241,7 +241,7 @@
         </mxCell>
         <mxCell id="2AwN3XhovqSg3E8ISbUY-18" value="生成与&lt;div&gt;存储&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2AwN3XhovqSg3E8ISbUY-17">
           <mxGeometry x="0.1667" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-15" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2AwN3XhovqSg3E8ISbUY-12" value="用LightRAG插入JSON数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
