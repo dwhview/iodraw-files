@@ -224,6 +224,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2AwN3XhovqSg3E8ISbUY-8" value="Note" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="761" width="90" height="119" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
