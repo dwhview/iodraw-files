@@ -304,10 +304,10 @@
         <mxCell id="FKo1wn964XpOd0D-pp1g-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化LightRAG实例&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="326" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FKo1wn964XpOd0D-pp1g-6" value="执行RAG查询提取权力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FKo1wn964XpOd0D-pp1g-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;执行RAG查询提取权力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c6BKYlkD1_nYNv5OPBQn-1" value="right.json" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c6BKYlkD1_nYNv5OPBQn-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;right.json&lt;/font&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="202" y="530" width="85" height="125" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-8" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
