@@ -158,7 +158,7 @@
         <mxCell id="vLYPcYJMrYs5jJGlEt6w-9" value="生成relationships.txt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vLYPcYJMrYs5jJGlEt6w-13" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="vLYPcYJMrYs5jJGlEt6w-13" value="实体/关系提取模块" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="303" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
