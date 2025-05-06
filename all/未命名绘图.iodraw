@@ -290,7 +290,7 @@
         <mxCell id="FKo1wn964XpOd0D-pp1g-5" value="初始化LightRAG实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="326" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FKo1wn964XpOd0D-pp1g-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FKo1wn964XpOd0D-pp1g-6" value="执行RAG查询提取权力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c6BKYlkD1_nYNv5OPBQn-1" value="" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
