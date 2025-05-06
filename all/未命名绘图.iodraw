@@ -173,6 +173,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r2bt8YugkUD6_9Vkz_nH-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="217" width="110" height="68" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
