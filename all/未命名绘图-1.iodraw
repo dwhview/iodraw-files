@@ -579,10 +579,10 @@
           <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpqhXTJARzYGUTy5sxa2-5" value="用LightRAG插入JSON数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="343" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpqhXTJARzYGUTy5sxa2-6" value="生成并存储图谱文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="646" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="621" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpqhXTJARzYGUTy5sxa2-9" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="340" width="120" height="60" as="geometry" />
