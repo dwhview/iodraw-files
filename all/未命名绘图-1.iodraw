@@ -480,7 +480,7 @@
         <mxCell id="gew3NZzIPWJPWaJOmJFk-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生成relationships.txt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gew3NZzIPWJPWaJOmJFk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gew3NZzIPWJPWaJOmJFk-5" value="输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gew3NZzIPWJPWaJOmJFk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
