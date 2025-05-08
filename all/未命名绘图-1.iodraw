@@ -134,7 +134,7 @@
         <mxCell id="7lW8Ifq8K6gq8TK8un4Q-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="47" y="372" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lW8Ifq8K6gq8TK8un4Q-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7lW8Ifq8K6gq8TK8un4Q-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="372" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
