@@ -501,7 +501,7 @@
         <mxCell id="gew3NZzIPWJPWaJOmJFk-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输出&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;到实体/关系提取与标准化模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gew3NZzIPWJPWaJOmJFk-6" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gew3NZzIPWJPWaJOmJFk-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
