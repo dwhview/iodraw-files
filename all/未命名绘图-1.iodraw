@@ -578,7 +578,7 @@
         <mxCell id="EpqhXTJARzYGUTy5sxa2-4" value="遍历并构建各许可证工作文件夹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="337" y="343" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EpqhXTJARzYGUTy5sxa2-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EpqhXTJARzYGUTy5sxa2-5" value="用LightRAG插入JSON数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="343" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EpqhXTJARzYGUTy5sxa2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
