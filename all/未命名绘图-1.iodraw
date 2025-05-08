@@ -527,6 +527,12 @@
         <mxCell id="5TnRxywoo8DrLvF9T7me-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="216" y="391" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5TnRxywoo8DrLvF9T7me-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="391" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5TnRxywoo8DrLvF9T7me-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="492" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
