@@ -483,8 +483,14 @@
         <mxCell id="gew3NZzIPWJPWaJOmJFk-2" value="输入：从SPDX提取的文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ehR7nafBZcsL__o8leQn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gew3NZzIPWJPWaJOmJFk-3" target="gew3NZzIPWJPWaJOmJFk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gew3NZzIPWJPWaJOmJFk-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生成entities.txt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ehR7nafBZcsL__o8leQn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gew3NZzIPWJPWaJOmJFk-4" target="gew3NZzIPWJPWaJOmJFk-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gew3NZzIPWJPWaJOmJFk-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生成relationships.txt&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
