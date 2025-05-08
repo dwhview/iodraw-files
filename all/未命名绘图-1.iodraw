@@ -550,7 +550,7 @@
         <mxCell id="5TnRxywoo8DrLvF9T7me-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5TnRxywoo8DrLvF9T7me-6" target="5TnRxywoo8DrLvF9T7me-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5TnRxywoo8DrLvF9T7me-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5TnRxywoo8DrLvF9T7me-6" value="生成chunks.json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="391" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5TnRxywoo8DrLvF9T7me-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
