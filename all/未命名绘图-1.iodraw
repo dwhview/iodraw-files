@@ -357,13 +357,6 @@
         <mxCell id="FKo1wn964XpOd0D-pp1g-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输入预处理数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="so0XoKA1NxuWcI3wUJar-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKo1wn964XpOd0D-pp1g-4" target="FKo1wn964XpOd0D-pp1g-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="256" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FKo1wn964XpOd0D-pp1g-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;遍历许可证目录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="218" width="120" height="60" as="geometry" />
         </mxCell>
