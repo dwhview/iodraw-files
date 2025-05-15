@@ -478,12 +478,17 @@
           <mxGeometry x="360" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tQbX8dSo25_jPZD9jHzM-7" target="tQbX8dSo25_jPZD9jHzM-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="tQbX8dSo25_jPZD9jHzM-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tQbX8dSo25_jPZD9jHzM-7" target="tQbX8dSo25_jPZD9jHzM-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="770" />
+              <mxPoint x="330" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
