@@ -514,7 +514,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="270" />
-              <mxPoint x="128" y="272" />
+              <mxPoint x="130" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -529,14 +529,8 @@
         <mxCell id="gew3NZzIPWJPWaJOmJFk-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;输入：从SPDX提取的文件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ehR7nafBZcsL__o8leQn-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gew3NZzIPWJPWaJOmJFk-3" target="gew3NZzIPWJPWaJOmJFk-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gew3NZzIPWJPWaJOmJFk-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成entities.txt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ehR7nafBZcsL__o8leQn-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gew3NZzIPWJPWaJOmJFk-4" target="gew3NZzIPWJPWaJOmJFk-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gew3NZzIPWJPWaJOmJFk-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;生成relationships.txt&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
