@@ -360,7 +360,7 @@
         <mxCell id="so0XoKA1NxuWcI3wUJar-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FKo1wn964XpOd0D-pp1g-4" target="FKo1wn964XpOd0D-pp1g-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="256" y="250" />
+              <mxPoint x="250" y="248" />
             </Array>
           </mxGeometry>
         </mxCell>
